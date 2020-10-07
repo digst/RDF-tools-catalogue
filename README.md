@@ -10,7 +10,9 @@
  	<li><a href="http://www.easyrdf.org/converter">EasyRDF Converter </a> - Konverter mellem forskellige serialiseringer (fx fra RDF/XML til Turtle)</li> 
 	<li><a href="http://vowl.visualdataweb.org/webvowl.html">WebVOWL</a> -  Webbaseret visualisering af RDF-vokabularer</li> 
 	<li><a href="https://github.com/dgarijo/Widoco">WIDOCO </a> - Værktøj der kan autogenerere html-dokumentation mm. for RDF-vokabularer </li> 
- 	<li><a href="https://data.gov.dk/rdf2html">RDF2HTML</a> -  Få vist RDF-indhold som FDA-HTML-rapporter </li>   
+ 	<li><a href="https://data.gov.dk/rdf2html">RDF2HTML</a> -  Få vist RDF-indhold som FDA-HTML-rapporter </li>  
+	<li><a href="https://www.itb.ec.europa.eu/shacl/shacl/upload</a> - SHACL-validator </li>  
+	<li><a href="https://www.itb.ec.europa.eu/docs/guides/latest/validatingRDF/index.html</a> - Værktøj til opsætning af RDF-validator med SHACL</li>   
   </ul>
   
 
